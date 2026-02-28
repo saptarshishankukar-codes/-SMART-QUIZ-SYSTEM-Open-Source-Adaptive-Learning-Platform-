@@ -179,6 +179,5 @@ GitHub: https://github.com/saptarshishankukar-codes
 ⭐ Support
 
 If you find this project useful, please consider giving it a ⭐ on GitHub.
-📢 A LinkedIn project description
 
 Tell me what you want 
